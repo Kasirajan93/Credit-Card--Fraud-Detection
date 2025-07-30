@@ -1,2 +1,13 @@
-# Credit-Card--Fraud-Detection
-This repository contains a dataset and resources related to Credit Card Fraud Detection.This dataset is widely used to build and evaluate anomaly detection,classification,and Machine Learning models in the domain of financial fraud.
+# CREDIT CARD FRAUD DETECTION:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+# DATA REVIEW:
+
+This repository contains a dataset and resources related to Credit Card Fraud Detection.
+RECORDS:2,84,807 TRANSACTIONS
+FRAUDULENT TRANSACTIONS:492 
+Hello Everyone,Today, I was looking at a credit card fraud detection dataset, and I noticed that it has 31 columns in total. The first column is about time, which basically indicates when the transaction started, and it keeps track of the time in seconds over a span of two days. Then, there are 28 other columns that have been encrypted, so we can’t really tell what they represent—it could be a person’s name, a bank’s name, or anything like that. There’s also another column that indicates the amount, and this amount is given in euros (€), since it’s from a European country. Finally, there’s a column that tells us whether the transaction was fraudulent or not. From all of this, I understood that this dataset is used for supervised learning, and more specifically, it falls under the category of classification.This dataset(HIGLY IMBALANCE DATASET) is widely used to build and evaluate anomaly detection,classification,and Machine Learning models in the domain of financial fraud.
+APPLICATIONS:
+           # FRAUD DETECTION SYSTEMS IN BANKS AND FINTECH.
+           # RESSEARCH ON IMBALANCE DATASHEETS.
+           # DEMONSTRATION OF REAL-TIME FRAUD ALERT SYSTEMS.
